@@ -1,0 +1,14 @@
+{
+  "name": "Hold The Elevator!!",
+  "version": "1.0.0",
+  "description": "Lets you warp to Phantom Ganon after the elevator gets stuck. Just hold Dpad Up while transitioning to a new area!",
+  "main": "Main.js",
+  "core": "OcarinaofTime",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Will Colding",
+  "license": "ISC",
+  "modloader64_deps": {}
+}
